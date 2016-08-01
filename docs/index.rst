@@ -3,14 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Python for you and me
-==================================
+Bem vindo ao Python para você e para mim
+========================================
 
-This is a simple book to learn Python programming language, it is for the programmers who are new to Python.
+Esse é um simples livro para aprender a linguagem de programação Python,
+isso é para programadores que forem novos no Python.
 
-The Python 2.x version of the same book can be found `here <http://pymbook.readthedocs.org/en/latest/>`_.
+A versão para Python 2.x deste mesmo livro pode ser encontrada `aqui <http://pym-ptbr.readthedocs.io/pt_BR/latest/>`_.
 
-Contents:
+Conteúdo:
 
 .. toctree::
    :maxdepth: 2
